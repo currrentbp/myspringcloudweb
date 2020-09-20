@@ -1,6 +1,7 @@
 package com.currentbp.myspringcloudweb.controller;
 
-import com.currentbp.myspringcloudapi.modul.Student;
+
+import com.currentbp.common.model.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
