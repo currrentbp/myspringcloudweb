@@ -47,9 +47,9 @@
 
 
         <dependency>
-            <groupId>com.currentbp</groupId>
-            <artifactId>myspringcloudapi</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <groupId>com.bp.currentbp</groupId>
+            <artifactId>myGenProject</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
